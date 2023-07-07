@@ -1,0 +1,11 @@
+{
+	"folders": [
+		{
+			"name": "responsive-portfolio-website",
+			"path": "../.."
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "responsive-portfolio-website"
+	}
+}
